@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "people": [
+    {
+      "person_id": 3130,
+      "first_name": "Damien",
+      "last_name": "Burks",
+      "mobile": "09991230000",
+      "age": 21,
+      "address": "Cainta, Rizal",
+      "email": "damien.burks@gmail.com"
+    },
+    {
+      "person_id": 3297,
+      "first_name": "Rosella",
+      "last_name": "Avila",
+      "mobile": "09991230001",
+      "age": 17,
+      "address": "Sta. Lucia, Pasig City",
+      "email": "rosella.avilla@gmail.com"
+    },
+    {
+      "person_id": 2401,
+      "first_name": "Elvin",
+      "last_name": "Claude",
+      "mobile": "09991230002",
+      "age": 32,
+      "address": "Quezon City, Metro Manila",
+      "email": "elvin.claude@gmail.com"
+    },
+    {
+      "person_id": 6345,
+      "first_name": "Michael",
+      "last_name": "Dollente",
+      "mobile": "09123456789",
+      "age": 32,
+      "address": "Taguig  City, Metro Manila",
+      "email": "mj.dol@gmail.com"
+    },
+    {
+      "person_id": 4150,
+      "first_name": "Angelina",
+      "last_name": "Sims",
+      "mobile": "09991230003",
+      "age": 23,
+      "address": "Paranaque City, Metro Manila",
+      "email": "angelina.sims@gmail.com"
+    },
+    {
+      "person_id": 2811,
+      "first_name": "Florence",
+      "last_name": "Deirdre",
+      "mobile": "09991230004",
+      "age": 19,
+      "address": "Makati City, Metro Manila",
+      "email": "florence.deirdre@gmail.com"
+    }
+  ]
 }
